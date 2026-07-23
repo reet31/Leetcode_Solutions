@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/reet31/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
