@@ -8,6 +8,7 @@ A collection of ALL Solved LeetCode questions!
 | ------- |
 | [1260-shift-2d-grid](https://github.com/reet31/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/reet31/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -20,14 +21,20 @@ A collection of ALL Solved LeetCode questions!
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/reet31/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/reet31/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Database
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/reet31/Leetcode_Solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/reet31/Leetcode_Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/reet31/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/reet31/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
