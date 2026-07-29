@@ -54,6 +54,7 @@ A collection of ALL Solved LeetCode questions!
 | [1661-average-time-of-process-per-machine](https://github.com/reet31/Leetcode_Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/reet31/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/reet31/Leetcode_Solutions/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/reet31/Leetcode_Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/reet31/Leetcode_Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Enumeration
 |  |
