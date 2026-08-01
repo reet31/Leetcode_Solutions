@@ -6,6 +6,7 @@ A collection of ALL Solved LeetCode questions!
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/reet31/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/reet31/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/reet31/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/reet31/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -22,6 +23,7 @@ A collection of ALL Solved LeetCode questions!
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/reet31/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/reet31/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reet31/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -82,4 +84,16 @@ A collection of ALL Solved LeetCode questions!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/reet31/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/reet31/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/reet31/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
