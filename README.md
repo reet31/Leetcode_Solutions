@@ -26,6 +26,7 @@ A collection of ALL Solved LeetCode questions!
 | ------- |
 | [0486-predict-the-winner](https://github.com/reet31/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/reet31/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reet31/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/reet31/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -68,6 +69,7 @@ A collection of ALL Solved LeetCode questions!
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/reet31/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reet31/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
